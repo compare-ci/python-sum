@@ -1,8 +1,6 @@
 name: Project - Python sum
 on:
   pull_request:
-    paths:
-      - projects/python-simple/*
       
 jobs:
   build:
